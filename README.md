@@ -1,10 +1,10 @@
 # algorithm
 
-Docelowo powinny się tu pojawić implementacje wszystkich algorytmów z:
+Z czasem, powinny się tu pojawiać implementacje algorytmów z:
 
--> http://eduinf.waw.pl/inf/alg/001_search/index.php
+http://eduinf.waw.pl/inf/alg/001_search/index.php
 
--> http://www-users.mat.umk.pl/~stencel/acm/algorytmika_praktyczna.pdf
+http://www-users.mat.umk.pl/~stencel/acm/algorytmika_praktyczna.pdf
 
 ### coding style
 
