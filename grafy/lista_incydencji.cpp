@@ -36,7 +36,7 @@ int main()
     for (int i = 0; i < n; i++) {
         cout << i + 1 << ":";
         for (int j = 0; j < graf[i].e.size(); j++) {
-            cout << " " << graf[i].e[j].to + 1<< "(" << graf[i].e[j].w << ")";
+            cout << " " << graf[i].e[j].to + 1 << "(" << graf[i].e[j].w << ")";
         }
         cout << endl;
     }
