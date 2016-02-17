@@ -1,6 +1,6 @@
 # Witaj w repozytorium algo
 
-Repozytorium algo ma zapewnić łatwy dostęp do rozwiązań najpopulaniejszych problemów algorytmicznych w jednym miejscu.
+Algo ma zapewnić łatwy dostęp do rozwiązań najpopulaniejszych problemów algorytmicznych w jednym miejscu.
 
 Za najważniejszy cel stawiam sobie jakość zamieszczanego tu kodu.
 
