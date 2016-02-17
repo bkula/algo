@@ -1,7 +1,10 @@
+# ignore everything
 *
 
+# exept:
 !.gitignore
 !README.md
 !*.cpp
 
+# recursively
 !*/
