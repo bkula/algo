@@ -3,9 +3,9 @@
 Repozytorium algo ma zapewnić szybki dostęp do implementacji popularnych problemów algorytmicznych.
 
 Za cel stawiamy sobie:
-#1 czytelność kodu
-#2 optymalizacja czasowa i pamięciowa
-#3 ilość programów zamieszczonych w repozytorium
+- czytelność kodu
+- optymalizacja czasowa i pamięciowa
+- ilość programów zamieszczonych w repozytorium
 
 #### Lista stron z których czerpię pomysły
 
