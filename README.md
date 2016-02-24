@@ -4,7 +4,7 @@
 
 Za najważniejszy cel stawiam sobie jakość zamieszczanego tu kodu.
 
-#### Miejsca z których czerpię pomysły
+#### Strony z których czerpię pomysły
 
 - [Kurs podstaw algorytmiki - main2](http://main2.edu.pl/main2/courses/show/7/)
 - [Algorytmy i struktury danych - materiały I LO w Tarnowie](http://eduinf.waw.pl/inf/alg/001_search/index.php)
