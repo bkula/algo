@@ -82,7 +82,7 @@ int main()
         V* v = q.top();
         q.pop();
 
-        if (v->visited) continue;
+        if (v->visited) continue; // pomijam wierzchołek jeśli już w nim byłem
         else v->visited = true;
 
         for (int i = 0; i < v->e.size(); i++)
