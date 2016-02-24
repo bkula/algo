@@ -10,9 +10,9 @@
 
 #### Coding style
 
-- 'iostream' + 'ios_base::sync_with_stdio(0)' zamiast 'cstdio'
+- `iostream` + `ios_base::sync_with_stdio(0)` zamiast `cstdio`
 - unikam zmiennych globalnych ale nie są on zabronione
-- pakuj ile się do do 'main'
-- jak najczęsciej pakuj zmienne w 'struct'-a
+- pakuj ile się do do `main`-a
+- jak najczęsciej pakuj zmienne w `struct`-a
 - używaj raczej wskaźników niż id-ków
 - jeśli STL coś zaimplementował, nie implementuj tego poraz drugi
