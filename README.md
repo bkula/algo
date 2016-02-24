@@ -11,7 +11,7 @@
 #### Coding style
 
 - `iostream` + `ios_base::sync_with_stdio(0)` zamiast `cstdio`
-- unikam zmiennych globalnych ale nie są on zabronione
+- unikamy zmiennych globalnych ale nie są on zabronione
 - pakuj ile się do do `main`-a
 - jak najczęsciej pakuj zmienne w `struct`-a
 - używaj raczej wskaźników niż id-ków
