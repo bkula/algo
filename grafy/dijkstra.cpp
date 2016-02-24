@@ -3,7 +3,7 @@
 // konwencja:
 // C++98
 // oddzielna klasa dla krawędzi i dla wierchołka
-// jak najwięcej wskaźników, a jak najmniej id
+// jak najwięcej wskaźników, jak najmniej id
 // funktor porównujący dla kolejki
 // nieskończoność do oznaczenia nieodwiedzonego wierzchołka
 
