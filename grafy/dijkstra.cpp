@@ -68,7 +68,8 @@ int main()
     for (int i = 0; i < m; i++) {
         int a, b, c;
         cin >> a >> b >> c;
-        graf[a - 1].e.push_back(E(&graf[b - 1], c)); // wejście 1...n
+        a--, b--; // korekcja popularnego wejścia 1...n
+        graf[a].e.push_back(E(&graf[b], c));
     }
 
     V* root = &graf[0];
