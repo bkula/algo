@@ -1,8 +1,6 @@
 # Witaj w repozytorium algo
 
-**Algo** ma zapewnić łatwy dostęp do wielu rozwiązań najpopulaniejszych problemów algorytmicznych w jednym miejscu.
-
-Za najważniejszy cel stawiam sobie jakość zamieszczanego tu kodu.
+[Algo](https://github.com/bkula/algo) ma zapewnić łatwy dostęp do implementacji najpopulaniejszych problemów algorytmicznych. Rozwiązania powinny być czytelne, zoptymalizowane czasowo i pamięciowo oraz elastyczne (tak by dało się je łatwo przerobić i wykorzystać w rozwiązywaniu innego problemu).
 
 #### Strony z których czerpię pomysły
 
