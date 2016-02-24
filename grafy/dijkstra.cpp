@@ -17,7 +17,7 @@ const int INF = numeric_limits<int>::max();
 
 struct V;
 
-struct E // edge
+struct E // Edge
 {
     V* to;
     int w; // weight
@@ -29,7 +29,7 @@ struct E // edge
     }
 };
 
-struct V // vertex
+struct V // Vertex
 {
     int id;
     vector<E> e; // lista krawędzi
