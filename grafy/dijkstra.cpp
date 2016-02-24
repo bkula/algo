@@ -1,6 +1,7 @@
 // DIJKSTRA
 
 // konwencja:
+// C++98
 // oddzielna klasa dla krawędzi i dla wierchołka
 // jak najwięcej wskaźników, a jak najmniej id
 // funktor porównujący dla kolejki
