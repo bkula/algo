@@ -10,7 +10,7 @@
 
 #### Coding style
 
-- C++98
+- trzymamy się C++98
 - `iostream` + `ios_base::sync_with_stdio(0)` zamiast `cstdio`
 - unikamy zmiennych globalnych ale nie są on zabronione
 - pakuj ile się do do `main`-a
