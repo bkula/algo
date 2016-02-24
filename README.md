@@ -17,3 +17,5 @@
 - jak najczęsciej pakuj zmienne w `struct`-a, używaj metod
 - używaj raczej wskaźników niż id-ków
 - jeśli STL coś zaimplementował, nie implementuj tego poraz drugi
+- krótkie nazwy zmiennych ale opatrzone komentarzem
+- zostawiaj zakomentowane dubugi
